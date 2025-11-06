@@ -1,0 +1,15 @@
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\bin\Debug\net8.0\h-bit.exe
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\bin\Debug\net8.0\h-bit.deps.json
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\bin\Debug\net8.0\h-bit.runtimeconfig.json
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\bin\Debug\net8.0\h-bit.dll
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\bin\Debug\net8.0\h-bit.pdb
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.AssemblyInfoInputs.cache
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.AssemblyInfo.cs
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.sourcelink.json
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.dll
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\refint\h-bit.dll
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.pdb
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\h-bit.genruntimeconfig.cache
+E:\Documents\GitHub\h-bit_csharp\h-bit\h-bit\obj\Debug\net8.0\ref\h-bit.dll
